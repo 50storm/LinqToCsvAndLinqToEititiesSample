@@ -1,0 +1,24 @@
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\ConsoleAppReadCsv.exe.config
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\ConsoleAppReadCsv.exe
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\ConsoleAppReadCsv.pdb
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\obj\Debug\ConsoleAppReadCsv.csprojResolveAssemblyReference.cache
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\obj\Debug\ConsoleAppReadCsv.exe
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\obj\Debug\ConsoleAppReadCsv.pdb
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\LINQtoCSV.dll
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\EntityFramework.dll
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\EntityFramework.xml
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hiro\documents\visual studio 2017\Projects\ConsoleAppReadCsv\ConsoleAppReadCsv\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\ConsoleAppReadCsv.exe.config
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\ConsoleAppReadCsv.exe
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\ConsoleAppReadCsv.pdb
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\EntityFramework.dll
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\LINQtoCSV.dll
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\EntityFramework.xml
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\obj\Debug\ConsoleAppReadCsv.csprojResolveAssemblyReference.cache
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\obj\Debug\ConsoleAppReadCsv.exe
+C:\Users\Hiro\Source\Repos\LinqToCsvAndLinqToEititiesSample\ConsoleAppReadCsv\obj\Debug\ConsoleAppReadCsv.pdb
